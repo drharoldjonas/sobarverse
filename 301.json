@@ -1,0 +1,18 @@
+[
+  { "from": "/12stepmeetings-alcohol", "to": "/meetings/aa" },
+  { "from": "/meetings/families-anonymous", "to": "/meetings/families-anonymous" },
+  { "from": "/facilities/detox_centers", "to": "/directory/detox_centers" },
+  { "from": "/facilities/alternative_treatment", "to": "/directory/alternative_treatment" },
+  { "from": "/facilities/drug_alcohol", "to": "/directory/drug_alcohol" },
+  { "from": "/facilities/outpatient", "to": "/directory/outpatient" },
+  { "from": "/facilities/adolescent_treatment", "to": "/directory/adolescent_treatment" },
+  { "from": "/facilities/exclusive_rehabs", "to": "/directory/housing" },
+  { "from": "/facilities/halfway_houses", "to": "/directory/housing" },
+  { "from": "/home/advertising", "to": "/advertising" },
+  { "from": "/press", "to": "/pressroom" },
+  { "from": "/facilitymanagement/facilitynew", "to": "/facility/add" },
+  { "from": "/account/login", "to": "/login" },
+  { "from": "/account/register", "to": "/register" },
+  { "from": "/directory/listings", "to": "/directory/search" },
+  { "from": "/directory/recoverycoaches", "to": "https://recoverycoach.net/coaches" }
+]

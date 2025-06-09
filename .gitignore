@@ -1,0 +1,39 @@
+# dependencies
+node_modules
+
+package-lock.json
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+.idea
+package-lock.json
+
+# Nuxt generate
+dist
+
+# Ignore static asset directories
+static/images
+static/img
+static/video
+
+# Ignore SVG icon set
+static/css/icon_fonts/SVG_icon_set_4/
+
+# Ignore environment files
+.env
+
+# Ignore uploads and generated files
+uploads/
+
+# Ignore database files
+*.bson
+*.metadata.json
+
+# Editor and system files
+.vscode/
+.eslintcache
+.DS_Store
+Thumbs.db
